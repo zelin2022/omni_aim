@@ -3,6 +3,10 @@ use CNN trained on real human images to track humanoid models in video games
 
 Uses [movenet/multipose/lightning](https://tfhub.dev/google/movenet/multipose/lightning/1)
 
+![Original](demo/img/concept_imgage_original)
+
+![Inferenced](demo/img/concept_imgage_inference)
+
 ## How to try
 - Download the latest release
 - follow the instruction inside
