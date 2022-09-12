@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-omni_aim/omni_aim/model/* linguist-vendored
+omni_aim/model/* linguist-vendored
